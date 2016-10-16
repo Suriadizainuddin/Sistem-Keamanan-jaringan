@@ -1,8 +1,7 @@
-**Sistem Keamanan Jaringan**
-
 <p align="center">
   <img src="../../img/jaringan.jpg" width="400px">
 </p>
+**Sistem Keamanan Jaringan**
 
 1. Sebutkan layer yang ada pada OSI Layer
 2. Sebutkan fungsi-fungsi layer dari OSI Layer asing-masing
