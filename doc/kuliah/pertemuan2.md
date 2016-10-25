@@ -1,7 +1,7 @@
 **Sistem Keamanan Jaringan**
 
 **Vulnerabilities**
-
+<p align="center"> <img src="../../img/security.png" width="400px"> </p>
 **Latar Belakang Masalah**
 
 1. Apa yang di maksud dengan Vulnerabilities?
