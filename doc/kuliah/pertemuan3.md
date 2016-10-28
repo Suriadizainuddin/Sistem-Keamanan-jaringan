@@ -1,6 +1,7 @@
 **Sistem Keamanan Jaringan**
 
 **Anatomy**  **Hacking**
+<p align="center"> <img src="../../img/anatomi.png" width="400px"> </p>
 
  **Latar Belakang Masalah**
 
