@@ -1,6 +1,7 @@
 **Latar Belakang Masalah**
+** Sistem Keamanan Jaringan**
 
- 
+<p align="center"> <img src="../../img/sniffing.jpg" width="400px"> </p> 
 
 Pada eran globalisasi ini sangatlah mudah mengakses sesuatu jika terhubung dengan internet baik itu mengakses hal yang baik maupun yang tidak. Karena didalam internet kita bisa mengakses apa yang kita inginkan dan sangat membantu pengguna dalam memecahkan sebuah permasalahan yang ada. Namun ada juga yang memanfaatkan untuk merugikan pihak orang lain, contohnya melakukan Sniffing.
 
