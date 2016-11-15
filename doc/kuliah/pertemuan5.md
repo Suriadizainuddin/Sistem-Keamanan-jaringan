@@ -2,7 +2,7 @@
 
 **Spoffing**
 
- 
+<p align="center"> <img src="../../img/spoofing.jpg" width="400px"> </p>  
 
 Dalam membahas sebuah jaringan tidaklah lengkap jika tak membahas sebuah keamanan jaringan tersebut ada saja masalah yang akan di hadapi tentang keamanan jaringannya dan akan berdampak buruk pada orang lain jika ada yang berniat buruk  seperti contohnya melakukan Spoffing
 
@@ -35,6 +35,8 @@ Dalam membahas sebuah jaringan tidaklah lengkap jika tak membahas sebuah keamana
 3. Identifi Spoffing adalah suatu tindakan penyusupan dengan menggunakan identitas resmi secara illegal, sehingga penyusup dapat mengakses segala sesuatu dalam jaringan.
 
 1. Contohnya seperti ini ketika pencurian identitas user dapat dilakukan dalam satu jaringan,misal PC A sedang berkomunikasi dengan PC B dalam satu jaringan, Kemudian ada PC sebagai pihak ketiga yang mengaku menjadi si B dan seakan-akan si A berkomunikasi dengan B dan B berfikir bahwa dia berkomunikasi dengan User A pada paketnya sudah di terima oleh PC C dan PC C merubah paketan tersebut.
+
+<p align="center"> <img src="../../img/spoofing2.png" width="400px"> </p>  
 
  
 1. Tidak mengaktifkan Javascript pada browser sehingga penyerang tidak dapat menyembunyikan petunjuk atau bukti dari adanya penyerangan.
