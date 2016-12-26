@@ -1,6 +1,6 @@
 # **Firewall**
 
- <p align="center"> <img src="../../img/firewall.jpg" width="400px"> </p>  
+ <p align="center"> <img src="https://github.com/Suriadizainuddin/Sistem-Keamanan-jaringan/blob/master/doc/kuliah/pertemuan7.md" width="400px"> </p>  
  
 1. Jelaskan yang di maksud dengan firewall
 2. Jelaskan maanfaat firewall
