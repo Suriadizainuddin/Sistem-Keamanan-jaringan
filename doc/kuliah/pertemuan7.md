@@ -1,5 +1,6 @@
 # **Firewall**
 
+ <p align="center"> <img src="../../img/firewall.jpg" width="400px"> </p>  
  
 1. Jelaskan yang di maksud dengan firewall
 2. Jelaskan maanfaat firewall
