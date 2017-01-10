@@ -1,5 +1,7 @@
 Firewall (**NIDS DAN HIPS)**
 
+ <img src="https://github.com/Suriadizainuddin/Sistem-Keamanan-jaringan/blob/master/img/1.png" width="400px"> </p>
+
 1. Jelaskan yang di maksud dengan NIDS
 2. Jelaskan yang di maksud dengan IDS
 3. Jelaskan yang di maksud dengan HIPS
