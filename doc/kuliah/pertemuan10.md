@@ -30,13 +30,5 @@ Kesimpulan
 Saran
 
 RADIUS ini dapat digunakan dirumah atau dikosan agar hak akses wifi kita dapat digunakan oleh kita sendiri
-Rendered
-RADIUS
+Rendere
 
-Apa yang dimaksud dengan RADIUS?
-Apa fungsi dari RADIUS?
-Bagaimana konsep dari RADIUS?
-Bagaimana skema jaringan jika menggunakan RADIUS?
-Pembahasan
-
-Radius (Remote Authentication Dial-In User Service) merupakan sebuah protocol keamanan komputer yang digunakan untuk melakukan autentikasi, otorisasi dan pendaftaran akun 
